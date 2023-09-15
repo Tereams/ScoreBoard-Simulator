@@ -1,0 +1,5 @@
+LSD F6, 34(R2)
+LD F18,45(R3)
+MULTD F0,F4
+LD @#$%^%$@^%
+ADDD F6,F8,F2 ;add F8 and F2 to F6

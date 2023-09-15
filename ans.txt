@@ -1,0 +1,6 @@
+LD F6,34(R2)    IS:1     RO:2     EX:3     WB:4    
+LD F2,45(R3)    IS:5     RO:6     EX:7     WB:8    
+MULTD F0,F2,F4  IS:6     RO:9     EX:19    WB:20   
+SUBD F8,F6,F2   IS:7     RO:9     EX:11    WB:12   
+DIVD F10,F0,F6  IS:8     RO:21    EX:61    WB:62   
+ADDD F6,F8,F2   IS:13    RO:14    EX:16    WB:22   
